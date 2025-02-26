@@ -1,3 +1,6 @@
-# Javascript Chess Game by Abdul
-please subscribe  my channel "THE SOLUTION HUB" for more videos and tuts
+# Javascript Chess Game 
+
+
+
+This is a simple chess game implemented in JavaScript, HTML, and CSS.
 
